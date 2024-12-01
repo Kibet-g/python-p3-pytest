@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+# bool_test.py
 from bool_functions import return_true
 
 def test_return_true():
